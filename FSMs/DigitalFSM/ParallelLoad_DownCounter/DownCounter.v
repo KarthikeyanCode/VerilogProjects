@@ -35,4 +35,4 @@ T_FF T3(.T(FF3_in), .clk(clk), .reset(reset), .Q(out[3]));
 //Detect if the counter has completed the down counting i.e reached 0000
 ZeroDetection Detect(.in(out), .out(cmpltd));
 
-endmodule
+endmodule 

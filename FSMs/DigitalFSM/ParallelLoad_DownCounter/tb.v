@@ -32,7 +32,7 @@ begin
     #2;
 
     //start down counting
-    select = 0;
+    select = 0; 
     
     #50;
     
